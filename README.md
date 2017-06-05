@@ -1,1 +1,1 @@
-# poster
+# This is a Java program.
