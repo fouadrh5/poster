@@ -1,4 +1,4 @@
-# This is a Java program.
+# This is a Java Programming Language.
 
 
 
